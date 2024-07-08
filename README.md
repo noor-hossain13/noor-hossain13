@@ -1,14 +1,13 @@
-### Hi there 👋, I'm Md. Noor Hossain
-#### I am competitive programmer
-![I am competitive programmer](https://avatars.githubusercontent.com/u/162303717?v=4)
+### Hi there 👋, my name is Md. Noor Hossain
+#### I am currently pursuing a degree  in Information and Communication Technology
+![I am currently pursuing a degree  in Information and Communication Technology](https://media.licdn.com/dms/image/D5616AQEZWuRky1fp6w/profile-displaybackgroundimage-shrink_350_1400/0/1711435004488?e=1726099200&v=beta&t=DQo5-2lWjWnh5ioWHpjK1pobgFAnrSbfvaKxXtRc7WA)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: C/C++/Java/Python/html
+Skills: C / C++ /PYTHON / JAVA / HTML / MySql
 
 - 🔭 I’m currently working on student 
-- 🌱 I’m currently learning cyber security 
-- 👯 I’m looking to collaborate on linkedin 
+- 🌱 I’m currently learning pentesting 
+- 👯 I’m looking to collaborate on Linkedin 
 - 📫 How to reach me: hossain16112@gmail.com 
 
 

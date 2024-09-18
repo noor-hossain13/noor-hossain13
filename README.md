@@ -13,7 +13,7 @@ Skills: C / C++ /PYTHON / JAVA / HTML / MySql
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/noor-hossain13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-noor-hossain/)  
 
-<script src="https://tryhackme.com/badge/3132794"></script>
+
 
 
 

@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Md. Noor Hossain
 #### I am currently pursuing a degree  in Information and Communication Technology
-![I am currently pursuing a degree  in Information and Communication Technology](https://media.licdn.com/dms/image/D5616AQEZWuRky1fp6w/profile-displaybackgroundimage-shrink_350_1400/0/1711435004488?e=1726099200&v=beta&t=DQo5-2lWjWnh5ioWHpjK1pobgFAnrSbfvaKxXtRc7WA)
+![I am currently pursuing a degree  in Information and Communication Technology]([https://media.licdn.com/dms/image/D5616AQEZWuRky1fp6w/profile-displaybackgroundimage-shrink_350_1400/0/1711435004488?e=1726099200&v=beta&t=DQo5-2lWjWnh5ioWHpjK1pobgFAnrSbfvaKxXtRc7WA](https://media.licdn.com/dms/image/v2/D5616AQEZWuRky1fp6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711435004488?e=1735776000&v=beta&t=g3du0CLTNQCt6tcXzcwUT7lRMK_rIVvbjTOjrL0181A))
 
 
 Skills: C / C++ /PYTHON / JAVA / HTML / MySql
